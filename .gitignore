@@ -1,0 +1,33 @@
+# Ambientes virtuais
+**/.venv/
+**/venv/
+**/env/
+.venv~cd/
+
+# Bytecode e caches do Python
+**/__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# Jupyter Notebooks
+**/.ipynb_checkpoints/
+
+# IDEs e editores
+.vscode/
+.idea/
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Datasets brutos e arquivos compactados locais
+**/dataset/
+**/datasets_processados/
+**/dataset_ampliado/
+*.zip
+*.npz
+*.tmp
+*.pid
