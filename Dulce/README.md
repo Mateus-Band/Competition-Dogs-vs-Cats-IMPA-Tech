@@ -46,12 +46,3 @@ Todos os notebooks têm uma avaliação no conjunto de teste, mas ela serve **ap
 | `historico/` | Históricos de treino (`.json`) e anotações dos ensaios (`.txt`) |
 | `modelo_cats_and_dogs_224_v2.pt` | Pesos do modelo final |
 | `requirements.txt` | Bibliotecas necessárias (`pip install -r requirements.txt`) |
-
-## Estrutura do repositório
-
-| Pasta | O que tem |
-|---|---|
-| `Cats vs Dogs/` | O projeto de classificação de gatos e cachorros, descrito acima |
-| `Understanding Deep Learning/` | Notebooks dos capítulos 3 a 10 do livro *Understanding Deep Learning*, com os exercícios feitos ao longo do Picme |
-
-Trabalho realizado no curso de Machine Learning 1 - IMPA-Tech 2026.2. Os demais trabalhos do curso estão no repositório [Machine-Learning](https://github.com/dulce-costa/Machine-Learning).
